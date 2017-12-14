@@ -1,0 +1,6 @@
+{
+    "ses": {
+        "sender": "Alert System <notifications@example.com>",
+        "aws-region": "us-east-1"
+    }
+}
